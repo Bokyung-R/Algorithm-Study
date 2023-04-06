@@ -22,4 +22,3 @@ int main() {
 	cout << endl;
 
 }
-//시간초과 + count가 0과 1로만 뜸
