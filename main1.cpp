@@ -27,4 +27,4 @@ int main() {
 			cout << name_nu[value] << endl;
 		}
 	}
-}//Æ²·È½À´Ï´Ù
+}
